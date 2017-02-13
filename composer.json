@@ -33,6 +33,9 @@
     },
     "extra": {
         "bolt-assets": "web",
-        "bolt-class": "Bolt\\Extension\\Postitief\\ContactForm\\ContactForm"
+        "bolt-class": "Bolt\\Extension\\Postitief\\ContactForm\\ContactForm",
+        "branch-alias": {
+            "dev-master": "1.0.3"
+        }
     }
 }
