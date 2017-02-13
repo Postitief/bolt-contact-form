@@ -18,7 +18,7 @@
             "email": "d.boertje@postitief.nl"
         }
     ],
-    "minimum-stability": "1.0",
+    "minimum-stability": "1.0.*",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
